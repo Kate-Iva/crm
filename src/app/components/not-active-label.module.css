@@ -1,0 +1,16 @@
+.label {
+    display: inline-flex;
+    align-items: center;
+    border-radius: 28px;
+    padding: 4px 14px;
+    gap: 8px;
+
+   /* width: 83px;*/
+    height: 28px;
+    background: #fee2e2;
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 143%;
+    color: #b91c1c;
+}
